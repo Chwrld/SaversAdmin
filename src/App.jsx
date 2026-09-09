@@ -5,6 +5,7 @@ import Dashboard from './components/pages/Dashboard'
 import UsersPage from './components/pages/UsersPage'
 import MarketsPage from './components/pages/MarketsPage'
 import ReportsPage from './components/pages/ReportsPage'
+import CommoditiesPage from './components/pages/CommoditiesPage'
 import PageHeading from './components/ui/PageHeading'
 
 const navItems = [
@@ -19,6 +20,7 @@ function App() {
   const pages = {
     Dashboard: <Dashboard />,
     Users: <UsersPage />,
+    Commodities: <CommoditiesPage />,
     'Markets & Zones': <MarketsPage />,
     'Price Reports': <ReportsPage />,
   }

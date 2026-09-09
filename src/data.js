@@ -39,6 +39,19 @@ export const markets = [
   ['MKT-005', 'Bangkal Public Market', 'McArthur Hwy, Bangkal, Davao City', '7.0487, 125.5912', '4'],
 ]
 
+export const commodities = [
+  ['CMD-001', 'Tomato', 'Vegetables', 'kg', 'Active', 'Aug 4, 2025'],
+  ['CMD-002', 'Eggplant', 'Vegetables', 'kg', 'Active', 'Aug 11, 2025'],
+  ['CMD-003', 'Cabbage', 'Vegetables', 'kg', 'Active', 'Aug 18, 2025'],
+  ['CMD-004', 'Carrot', 'Vegetables', 'kg', 'Active', 'Aug 25, 2025'],
+  ['CMD-005', 'Red Onion', 'Vegetables', 'kg', 'Active', 'Sep 1, 2025'],
+  ['CMD-006', 'Banana (Lakatan)', 'Fruits', 'kg', 'Active', 'Sep 8, 2025'],
+  ['CMD-007', 'Mango (Carabao)', 'Fruits', 'kg', 'Active', 'Sep 15, 2025'],
+  ['CMD-008', 'Papaya', 'Fruits', 'kg', 'Active', 'Sep 22, 2025'],
+  ['CMD-009', 'Pork Belly', 'Meat', 'kg', 'Active', 'Sep 29, 2025'],
+  ['CMD-010', 'Beef Brisket', 'Meat', 'kg', 'Active', 'Oct 6, 2025'],
+]
+
 export const freshness = [
   ['Agdao Public Market', '2 h ago', 'Current'],
   ['Bankerohan Public Market', '14 h ago', 'Current'],
